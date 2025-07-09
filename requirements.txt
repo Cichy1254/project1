@@ -1,0 +1,11 @@
+numpy
+pandas
+pandas-ta
+yfinance
+requests
+feedparser
+beautifulsoup4
+nltk
+plotly
+streamlit
+rich
